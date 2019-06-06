@@ -1,0 +1,17 @@
+table,
+th,
+tr,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    height: 100px;
+}
+
+#table1 {
+    border-color: brown;
+    font-size: 20px;
+    align-content: center;
+    text-align: center
+}
+
